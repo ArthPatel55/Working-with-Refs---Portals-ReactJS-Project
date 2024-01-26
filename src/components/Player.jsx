@@ -3,6 +3,7 @@ export default function Player() {
     <section id="player">
       <h2>Welcome unknown entity</h2>
       <p>
+        <p>hello</p>
         <input type="text" />
         <button>Set Name</button>
       </p>
